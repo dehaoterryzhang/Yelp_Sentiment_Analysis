@@ -1,7 +1,7 @@
 # Sentiment Analysis On Yelp Dataset
 
 ## Medium Post
-Check out my Medium post [here]().
+Check out my Medium post [here](https://towardsdatascience.com/sentiment-classification-with-logistic-regression-analyzing-yelp-reviews-3981678c3b44?source=friends_link&sk=b9493a3cadf935f4b5c78c1d6c6df25d).
 
 ## Table of Content
   * [Kernel](#kernel)
